@@ -13,3 +13,4 @@ public class NinoMasker {
   public String maskNinoInString(String ninoString){
     return "";
   }
+}
